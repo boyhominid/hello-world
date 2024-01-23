@@ -1,6 +1,6 @@
 # S. D.
 
-Encountered here is a growing compendium of S. D.'s programming projects. 
+Encountered here is a growing compendium of S. D.'s programming projects and completed lessons from freeCC, codeAcademy, et al. 
 Feel free to follow along with my compSci progress :) Very excited to learn...
 And, of course, <em>hello, world</em> :)
 
